@@ -1,0 +1,25 @@
+body {
+    background-color: #ededed;
+ }
+ 
+ .form-title img {
+    display: inline-block;
+ }
+ 
+ .form-title h1 {
+    padding-bottom: 0;
+    font-weight: 700;
+    color: #0E8FAB;
+    font-size: 36px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    line-height: 1.1em;
+ }
+ 
+ .addressFormUI-base-formHeader {
+    padding: 16px 16px 0;
+    font-size: 17px;
+    font-weight:500;
+    color: #00838f;
+    margin-bottom: 10px;
+ }
